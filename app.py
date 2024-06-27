@@ -3,7 +3,6 @@ from pygame.locals import *
 import pygame_gui
 
 from pygame_gui.core import ObjectID
-from pygame_gui.elements import UIButton
 
 
 
