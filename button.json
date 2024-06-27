@@ -1,0 +1,226 @@
+{
+    "button":
+    {
+        "colours":
+        {
+            "normal_border": "White",
+            "normal_bg": "SlateGray",
+            "normal_text": "White"
+        },
+        "misc":
+        {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1"
+        }
+    },
+    "@red_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Red",
+            "normal_text": "White"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@yellow_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Yellow"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@green_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Green"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@blue_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Blue"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@purple_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Purple"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@pink_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Pink"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@brown_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Brown"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@orange_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Orange"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@cyan_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Cyan"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@teal_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Teal"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@olive_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Olive"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@tan_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Tan"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@violet_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Violet"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@indigo_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Indigo"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@black_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Black"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    },
+    "@gray_btn":
+     {
+         "colours":
+        {
+            
+            "normal_bg": "Gray"
+        },
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1"
+        }
+    }
+}
